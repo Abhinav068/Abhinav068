@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NodeJS, HTML, CSS, Javascript.
 
 - 💬 Ask me about NodeJS, MongoDB, HTML, CSS, Javascript. 
-- 📫 How to reach me: https://abhinav068.github.io/ 
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/abhinav068)
+- Know about my [Experiences and projects](https://abhinav068.github.io/)
+
 
 

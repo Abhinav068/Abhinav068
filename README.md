@@ -1,11 +1,15 @@
 <div align="center" dir="auto">
 <h1> Hi there 👋 I'm Abhinav </h1>
-<h3>A curious Node Backend Developer with ample skills in frontend Web Development and Web Designing.</h3>
+<h3>A Full Stack Web Developer with a passion for building scalable and efficient web applications. I specialize in:</h3>
+<p>
+🚀 Frontend: HTML | CSS | JavaScript <br>
+⚙️ Backend: Node.js | Golang <br>
+💾 Database: MongoDB <br>
+</p>
 
 <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhinav068" alt="abhinav" /></a> </p>
 
 
-🌱 I’m currently learning **MERN stack, SQL, system design**  
 💬 Ask me about **NodeJS, MongoDB, HTML, CSS, Javascript**.  
 📫 Reach out to me at **abhinav28897@gmail.com**  
 📱 Find me on [LinkedIn](www.linkedin.com/in/abhinav068)  
